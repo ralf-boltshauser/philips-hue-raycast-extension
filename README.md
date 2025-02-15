@@ -12,9 +12,9 @@ Control your Philips Hue lights directly from Raycast! This extension allows you
 
 ## Screenshots
 
-![Manage Lights](./metadata/hue-1.png)
-![Light Controls](./metadata/hue-2.png)
-![Manage Groups](./metadata/hue-3.png)
+![Manage Lights](metadata/philips-hue-1.png)
+![Light Controls](metadata/philips-hue-2.png)
+![Manage Groups](metadata/philips-hue-3.png)
 
 ## Setup
 
